@@ -1,16 +1,18 @@
 # notification_fun
 
-A new Flutter project.
+A project started in an [Adventures In \[Dart, Flutter, Firebase\]] Meetup.
 
-## Getting Started
+Feel free to join us as we experiment with messaging using FlutterFire's [firebase_messaging] plugin & [Firebase Cloud Functions] for the App Server.
 
-This project is a starting point for a Flutter application.
+[Project Notes]
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Create a Flutter project 
+- [x] Import firebase_messaging
+- [x] Initialize Firebase
+- [ ] Go over [firebase_messaging] docs & create feature request issues to implement required functionality
+- [ ] Create a firebase function that sends notifications
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Adventures In \[Dart, Flutter, Firebase\]]: https://www.meetup.com/Adventures-In-Dart-Flutter-Firebase/
+[Firebase Cloud Functions]: https://firebase.google.com/docs/functions
+[Project Notes]: https://adventures-in.notion.site/Notification-Fun-20be3226d6824c3798bab0ab48974c6c
+[firebase_messaging]: https://firebase.flutter.dev/docs/messaging/overview/
