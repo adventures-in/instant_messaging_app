@@ -1,4 +1,4 @@
-# notification_fun
+# instant_messaging_app
 
 A project started in an [Adventures In \[Dart, Flutter, Firebase\]] Meetup.
 

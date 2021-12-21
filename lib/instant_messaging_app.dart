@@ -1,4 +1,4 @@
-library notification_fun;
+library instant_messaging_app;
 
 /// A Calculator.
 class Calculator {

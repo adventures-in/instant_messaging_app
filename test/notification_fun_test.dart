@@ -1,6 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:notification_fun/notification_fun.dart';
+import 'package:instant_messaging_app/instant_messaging_app.dart';
 
 void main() {
   test('adds one to input values', () {
