@@ -24,3 +24,4 @@ Feel free to join us as we experiment with instant messaging using:
 [firebase_messaging]: https://firebase.flutter.dev/docs/messaging/overview/
 [firebase_auth]: https://firebase.flutter.dev/docs/auth/overview
 [cloud_firestore]: https://firebase.flutter.dev/docs/firestore/overview
+[go_router]: https://gorouter.dev/
