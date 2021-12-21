@@ -1,8 +1,6 @@
 name: instant_messaging_app
 description: Adventures in instant messaging.
-
 publish_to: 'none'
-
 version: 1.0.0+1
 
 environment:
