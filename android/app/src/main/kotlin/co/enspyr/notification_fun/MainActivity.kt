@@ -1,4 +1,4 @@
-package co.enspyr.notification_fun
+package co.enspyr.instant_messaging_app
 
 import io.flutter.embedding.android.FlutterActivity
 
